@@ -82,6 +82,14 @@
             border-bottom: 3px;
         }
         
+        .ready {
+            text-decoration: line-through;
+        }
+        
+        .ready button.complete {
+            background-color: #43D33E;
+        }
+        
         #bottom {
             background-color: #124019;
             height: 50px;
